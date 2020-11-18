@@ -1,5 +1,5 @@
 <h1>Installation</h1>
-<p>1. Rename or copy .env-example file to .env </p>
+<p>1. Rename or copy .env.example file to .env </p>
 <p>2. Set your Mailtrap credentials in your .env file. Specifically MAIL_USERNAME and MAIL_PASSWORD <a href = "https://mailtrap.io/">Mailtrap</a></p>
 <p>3. composer update </p>
 <p>4. Generating a New Application Key</p><p>php artisan key:generate</p>
