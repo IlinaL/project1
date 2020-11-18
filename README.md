@@ -1,3 +1,16 @@
+<h1>Installation</h1>
+<p>1. Rename or copy .env-example file to .env </p>
+<p>2. Set your Mailtrap credentials in your .env file. Specifically MAIL_USERNAME and MAIL_PASSWORD <a href = "https://mailtrap.io/">Mailtrap</a></p>
+<p>3. composer update </p>
+<p>4. Generating a New Application Key</p><p>php artisan key:generate</p>
+<p>5. php artisan serve </p>
+<p>6. Visit localhost:8000 in your browser </p>
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
